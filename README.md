@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/ArNFQ.gif)
+![image](https://github.com/alaybey/alaybey/blob/master/dino.gif)
 
 <!--
 ### Hi there 👋
