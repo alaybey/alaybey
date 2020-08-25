@@ -1,4 +1,5 @@
-[!image](https://i.imgur.com/ArNFQ.gif)
+![image](https://i.imgur.com/ArNFQ.gif)
+
 <!--
 ### Hi there 👋
 
